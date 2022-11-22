@@ -1,0 +1,15 @@
+{
+  "repofile":"cmand cmdpkg repo",
+  "version":1,
+  "urlbase":"https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/",
+  "reposource":"pkgs",
+  "pkgs":[
+    {
+      "name":"basic",
+      "fullname":"Basic Scripts Package",
+      "author":"CKylinMC",
+      "md5":"6219f7220caafb48779cd6167b2a31bc",
+      "path":"basic/basic.cmdpkg"
+    }
+  ]
+}
