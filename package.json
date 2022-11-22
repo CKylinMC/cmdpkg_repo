@@ -1,0 +1,22 @@
+{
+  "name": "cmdpkg_repo",
+  "version": "1.0.0",
+  "description": "A repo collecting .cmdpkg files for cmand. Check out ckylinmc/cmand!",
+  "main": "index.js",
+  "scripts": {
+    "refresh": "node refresh.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CKylinMC/cmdpkg_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CKylinMC/cmdpkg_repo/issues"
+  },
+  "homepage": "https://github.com/CKylinMC/cmdpkg_repo#readme",
+  "dependencies": {
+    "md5-file": "^5.0.0"
+  }
+}
