@@ -3,11 +3,13 @@
   "version":1,
   "urlbase":"https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/",
   "reposource":"pkgs",
+  "banner":"CMAND CMDPKG REPO (CKYLINMC/CMDPKG_REPO)",
   "pkgs":[
     {
       "name":"basic",
       "fullname":"Basic Scripts Package",
       "author":"CKylinMC",
+      "size":"3.18 KB",
       "md5":"6219f7220caafb48779cd6167b2a31bc",
       "path":"basic/basic.cmdpkg"
     }
