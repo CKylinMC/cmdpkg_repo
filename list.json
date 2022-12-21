@@ -12,7 +12,79 @@
       "size": "3.27 KB",
       "md5": "6219f7220caafb48779cd6167b2a31bc",
       "path": "basic/basic.cmdpkg",
-      "description": "No description"
+      "description": "Example scripts bundle with all basic scripts."
+    },
+    {
+      "name": "capture",
+      "fullname": "capture",
+      "author": "CKylinMC",
+      "path": "basic/capture.cmdpkg",
+      "description": "Help you to capture specific command output",
+      "size": "0.58 KB",
+      "md5": "7940dce16abf2d1b1c7bc089a519a096"
+    },
+    {
+      "name": "cdd",
+      "fullname": "cdd",
+      "author": "CKylinMC",
+      "path": "basic/cdd.cmdpkg",
+      "description": "Shorthand of CD /d. Directly change directory to the specified path without worried about disks.",
+      "size": "0.48 KB",
+      "md5": "0b05f56d861d876064c5e7aa1e759d68"
+    },
+    {
+      "name": "here",
+      "fullname": "here",
+      "author": "CKylinMC",
+      "path": "basic/here.cmdpkg",
+      "description": "Open explorer here.",
+      "size": "0.52 KB",
+      "md5": "0b1ffd74861d8f829ab1725af8e7df9f"
+    },
+    {
+      "name": "killpid",
+      "fullname": "killpid",
+      "author": "CKylinMC",
+      "path": "basic/killpid.cmdpkg",
+      "description": "Kill process by pid.",
+      "size": "0.51 KB",
+      "md5": "d88d2a1dab612677bdf4813904c15d34"
+    },
+    {
+      "name": "mkcd",
+      "fullname": "mkcd",
+      "author": "CKylinMC",
+      "path": "basic/mkcd.cmdpkg",
+      "description": "Make directory and cd into it.",
+      "size": "0.49 KB",
+      "md5": "d6abdc78dbc4718fdbfdbdb455bb0e33"
+    },
+    {
+      "name": "releaseport",
+      "fullname": "releaseport - Hyper-V Helper",
+      "author": "CKylinMC",
+      "path": "basic/releaseport.cmdpkg",
+      "description": "Release ports taken by Hyper-V.",
+      "size": "0.84 KB",
+      "md5": "43f178c7a62076b31b74c92ff4752c73"
+    },
+    {
+      "name": "run",
+      "fullname": "cmand task runner",
+      "author": "CKylinMC",
+      "path": "basic/run.cmdpkg",
+      "description": "Shorthand of cmand run.",
+      "size": "0.48 KB",
+      "md5": "a4b8dd6caffba03ebe3d36b6fb76f097"
+    },
+    {
+      "name": "wthere",
+      "fullname": "Windows Terminal Opener",
+      "author": "CKylinMC",
+      "path": "basic/wthere.cmdpkg",
+      "description": "Open Windows Terminal at specific folder.",
+      "size": "0.53 KB",
+      "md5": "37b8253a6b8a88474e87cffbf16fcefb"
     }
   ]
 }
