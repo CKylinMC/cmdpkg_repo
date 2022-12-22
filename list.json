@@ -85,6 +85,24 @@
       "description": "Open Windows Terminal at specific folder.",
       "size": "0.53 KB",
       "md5": "37b8253a6b8a88474e87cffbf16fcefb"
+    },
+    {
+      "name": "kill",
+      "fullname": "kil",
+      "author": "CKylinMC",
+      "path": "basic/kill.cmdpkg",
+      "description": "Kill process by process name.",
+      "size": "0.49 KB",
+      "md5": "ab151b5f6a8511297447312c8b47c4d9"
+    },
+    {
+      "name": "home",
+      "fullname": "home",
+      "author": "CKylinMC",
+      "path": "basic/home.cmdpkg",
+      "description": "CD to your user home directory.",
+      "size": "0.5 KB",
+      "md5": "6d949f785029b1a2890ebc552c954bc4"
     }
   ]
 }
