@@ -1,7 +1,10 @@
 {
   "repofile": "cmand cmdpkg repo",
   "version": 1,
-  "urlbase": "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/",
+  "urlbase": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/",
+  "cdn": [
+    "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/"
+  ],
   "reposource": "pkgs",
   "banner": "CMAND CMDPKG REPO (CKYLINMC/CMDPKG_REPO)",
   "pkgs": [
