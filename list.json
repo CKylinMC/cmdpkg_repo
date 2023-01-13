@@ -103,6 +103,15 @@
       "description": "CD to your user home directory.",
       "size": "0.5 KB",
       "md5": "6d949f785029b1a2890ebc552c954bc4"
+    },
+    {
+      "name": "to",
+      "fullname": "Fast Convert To",
+      "author": "CKylinMC",
+      "description": "Fast convert video, audio and images to target format by using ffmpeg and magick.",
+      "path": "media/to.cmdpkg",
+      "size": "31942.97 KB",
+      "md5": "82f82b438f4d84eab29d5412ba53a12f"
     }
   ]
 }
