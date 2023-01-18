@@ -6,7 +6,7 @@
     "github": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/main/",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/ckylinmc/cmdpkg_repo@master/",
     "fastly": "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/",
-    "coding": "https://ckylinmc.coding.net/p/git-mirror/d/cmdpkg_repo/git/raw/main/"
+    "coding": "https://ckylinmc-generic.pkg.coding.net/git-mirror/cmdpkg_repo/"
   },
   "reposource": "pkgs",
   "banner": "CMAND CMDPKG REPO (CKYLINMC/CMDPKG_REPO)",
