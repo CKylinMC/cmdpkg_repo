@@ -4,6 +4,7 @@
   "urlbase": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/main/",
   "sources": {
     "github": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/main/",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/ckylinmc/cmdpkg_repo@master/",
     "fastly": "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/",
     "coding": "https://ckylinmc.coding.net/p/git-mirror/d/cmdpkg_repo/git/raw/main/"
   },
