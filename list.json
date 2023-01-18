@@ -1,7 +1,7 @@
 {
   "repofile": "cmand cmdpkg repo",
   "version": 1,
-  "urlbase": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/",
+  "urlbase": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/main/",
   "cdn": [
     "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/"
   ],
