@@ -115,6 +115,15 @@
       "path": "media/to.cmdpkg",
       "size": "31942.97 KB",
       "md5": "82f82b438f4d84eab29d5412ba53a12f"
+    },
+    {
+      "name": "ip",
+      "fullname": "IP Viewer",
+      "author": "CKylinMC",
+      "path": "tools/ippackage.cmdpkg",
+      "description": "Get the IP address of the device with filters",
+      "size": "2.81 KB",
+      "md5": "6a2d8c4744dc2a1d85395d2635f51a7b"
     }
   ]
 }
