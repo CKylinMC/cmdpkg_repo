@@ -1,10 +1,13 @@
 {
   "repofile": "cmand cmdpkg repo",
   "version": 1,
-  "urlbase": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/",
-  "cdn": [
-    "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/"
-  ],
+  "urlbase": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/main/",
+  "sources": {
+    "github": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/main/",
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/ckylinmc/cmdpkg_repo@master/",
+    "fastly": "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/",
+    "coding": "https://ckylinmc-generic.pkg.coding.net/git-mirror/cmdpkg_repo/"
+  },
   "reposource": "pkgs",
   "banner": "CMAND CMDPKG REPO (CKYLINMC/CMDPKG_REPO)",
   "pkgs": [
