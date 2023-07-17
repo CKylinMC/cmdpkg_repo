@@ -6,6 +6,7 @@
     "github": "https://raw.githubusercontent.com/CKylinMC/cmdpkg_repo/main/",
     "jsdelivr": "https://cdn.jsdelivr.net/gh/ckylinmc/cmdpkg_repo@master/",
     "fastly": "https://fastly.jsdelivr.net/gh/ckylinmc/cmdpkg_repo/",
+    "staticaly": "https://cdn.staticaly.com/gh/ckylinmc/cmdpkg_repo/main/",
     "mirror-us": "https://s3.ckyl.me/cmandpkg/"
   },
   "reposource": "pkgs",
