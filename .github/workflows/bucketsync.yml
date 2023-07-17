@@ -3,7 +3,7 @@ name: Sync To MinIO
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   deploy:
