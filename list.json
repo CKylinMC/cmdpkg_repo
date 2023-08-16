@@ -127,6 +127,15 @@
       "description": "Get the IP address of the device with filters",
       "size": "2.81 KB",
       "md5": "6a2d8c4744dc2a1d85395d2635f51a7b"
+    },
+    {
+      "name": "new-chrome",
+      "fullname": "Temporary Chrome Starter",
+      "author": "CKylinMC",
+      "path": "tools/new-chrome.cmdpkg",
+      "description": "Create a new Chrome process with a clean temporary environment.",
+      "size": "1.01 KB",
+      "md5": "00effa8355f17068887bac204ae3a637"
     }
   ]
 }
