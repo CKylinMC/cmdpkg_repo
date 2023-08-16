@@ -50,4 +50,27 @@ for (let pkg of pkgs) {
 fs.writeFileSync(path.join(__dirname, 'list.json'), JSON.stringify(list, null, 2));
 
 if (error) throw new Error("Error in package list");
-else console.log(`${index+1} package(s) refreshed`);
+else console.log(`${index + 1} package(s) refreshed`);
+
+function refreshPkg(pkg) {
+    if (!pkg.name) {
+        console.log('Invalid package name:', index);
+        return false;
+    }
+    pkg.name = pkg.name.toLowerCase();
+    if (!pkg.path) {
+        console.log('Invalid package path:', index, pkg.name);
+        return false;
+    }
+    let pkgPath = path.join(__dirname, 'pkgs', pkg.path);
+    let stat = fs.statSync(pkgPath);
+    if (!stat.isFile()) {
+        console.log('Missing package file:', index, pkg.name);
+        return false;
+    }
+    let size = Math.round(stat.size/10)/100+' KB';
+    let md5 = md5File.sync(pkgPath);
+    pkg.size = size;
+    pkg.md5 = md5;
+    return pkg
+}
